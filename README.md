@@ -29,6 +29,13 @@ I hope this repository may help all of you to learn about Python programming lan
 ## Content
 ### 1. How to setup Python online by using mybinder.org and Github Repository
 
+1. You have to create a [Github](https://github.com/) account. If you already have, just ignore this step. Go to the next step.
+2. Log in to your Github.
+3. Create a new repository. Set a repository name e.g. Learning Python. Don't forget to create a README.md file by checking a check box.
+4. Create a folder in your computer. Give it a name e.g. **test**. The **test** folder contain two files, there are **test.ipynb** (Jupyter Notebook empyt file) and **test.md** (Markdown empty file).
+5. Click **Add File** > select **Upload Files**. Then, choice/drag a file/folder that want to be uploaded. For example, I upload a **test** folder that I create previously. Click **Commit changes** after all files/folders are complete uploaded.
+6. Go to the [mybinder.org](https://mybinder.org/). It will open a new tab window.
+7. Copy the previously repository link (e.g. https://github.com/<your-user-name->/Learning-Python) and paste to mybinder.
  
 
 
