@@ -53,7 +53,8 @@ I hope this repository may help all of you to learn about Python programming lan
    ```
    [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/<user-name>/Learning-Python/main)
    ```
-   and paste it to your README.md file in your repository just you create. (*user-name is your GitHub user name*)
+   and paste it to your README.md file in your repository just you create. (*user-name is your GitHub user name*).
+ 
  13. Now you are in Jupyter Notebook workspace. You will see the **test** folder. Click this folder and you will see the **test.ipynb** and **test.md** file. Click on **test.ipynb** file and you will be directed to a Jupyter Notebook project file. Now, you can write your Python code.
 
 ### 2. Working with Jupyter Notebook
