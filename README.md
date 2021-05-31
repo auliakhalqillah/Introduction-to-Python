@@ -18,7 +18,7 @@ In this repository, I would like to explain:
 
 1. How to setup Python online by using [mybinder.org](https://mybinder.org/) and Github Repository
 2. Working with Jupyter Notebook
-3. Working with fundamental libraries:
+3. Working with fundamental Python libraries:
    - [Numpy](https://numpy.org/)
    - [Pandas](https://pandas.pydata.org/)
    - [Matplotlib](https://matplotlib.org/)
@@ -61,9 +61,63 @@ I hope this repository may help all of you to learn about Python programming lan
 1. You can click on your own binder link in point 12 above, but in this case I will use my own binder link by click the button bellow
  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/auliakhalqillah/Introduction-to-Python/main)
  It will direct to new tab window.
-2. Wait the building process until you are directed to a Jupyter Notebook workspace automatically.
+2. Wait the building process until you are directed to a Jupyter Notebook workspace automatically. It will takes a few minutes.
 3. Now, you are in Jupyter Notebook workspace.
-4. If you start from the begining, you can select **File** 
+4. If you start from the begining, select **New** > **Python 3** to create a Python file. Otherwise, if you already have a Python file (in Jupyter Notebook format), you can open it and edit it.
+5. Let's import a library, such as Numpy by typing
+
+   ```
+   import numpy as np
+   ```
+   
+   and click **Run** or press **Shift+Enter**.
+6. Type 
+   
+   ```
+   np.linspace(0,2,10)
+   ``` 
+   and press **Shift+Enter**. It will give a result
+
+   ```
+   array([0.        , 0.22222222, 0.44444444, 0.66666667, 0.88888889,
+       1.11111111, 1.33333333, 1.55555556, 1.77777778, 2.        ])
+   ```
+   
+ 7. Rename the file name e.g. `intropython`.
+ 8. Unfortunately, you can not save this file into your GitHub repository. The solustion is, you have to download this file by click **File** > **Download as** > **Notebook (.ipynb)**. It will be downloaded automatically.
+
+### 3. Working with fundamental Python libraries
+#### a. Numpy
+Numpy is a open source library for Python that usefull for numerical computing. Fundamentally, we can generate and modify an array by uisng numpy. For the further operation, we can apply a basic linear algebra, basic statistical operations, shape manipulation and much more ([source](https://numpy.org/doc/stable/user/whatisnumpy.html)). For the begining, I would like to start to generate an array. 
+##### 1. arange
+First I import a numpy libray by typing
+
+```
+import numpy as np
+```
+
+where the `np` is as numpy's alias. Next, we can use two methods to generate an array. The first method is by using `np.arange()` and the second method is by using `np.linspace`. So, I start from `np.arange()` method where I generate an array that start from index 0 to index 5th and I assign to `arr` variable by typing as follows command
+
+```
+arr = np.arange(0,5)
+```
+
+print the result in Jupyter Notebook just type its variable
+
+```
+arr
+```
+
+it give a result
+
+```
+array([0, 1, 2, 3, 4])
+```
+
+that means, the 0 is a first index and index 5th is 4. *Note, in Python, the first index is started from 0*
+#### b. Pandas
+#### c. Matplotlib
+#### d. Scipy
 
    
    
