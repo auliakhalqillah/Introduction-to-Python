@@ -58,7 +58,12 @@ I hope this repository may help all of you to learn about Python programming lan
  13. Now you are in Jupyter Notebook workspace. You will see the **test** folder. Click this folder and you will see the **test.ipynb** and **test.md** file. Click on **test.ipynb** file and you will be directed to a Jupyter Notebook project file. Now, you can write your Python code.
 
 ### 2. Working with Jupyter Notebook
-1. You can click on your binder link in point 12 above, but in this case I will use my own binder link by click [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/auliakhalqillah/Introduction-to-Python/main). It will direct to new tab window.
+1. You can click on your own binder link in point 12 above, but in this case I will use my own binder link by click the button bellow
+ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/auliakhalqillah/Introduction-to-Python/main)
+ It will direct to new tab window.
+2. Wait the building process until you are directed to a Jupyter Notebook workspace automatically.
+3. Now, you are in Jupyter Notebook workspace.
+4. If you start from the begining, you can select **File** 
 
    
    
