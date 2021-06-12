@@ -25,7 +25,7 @@ In this repository, I would like to explain:
    - [Numpy](https://numpy.org/)
    - [Pandas](https://pandas.pydata.org/)
    - [Matplotlib](https://matplotlib.org/)
-   - Basic Algorithm in Python
+   - [Basic Algorithm in Python](https://render.githubusercontent.com/view/ipynb?color_mode=light&commit=8922ccc9d479b29054fdcc1815bf3f35981fbeb8&enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f61756c69616b68616c71696c6c61682f496e74726f64756374696f6e2d746f2d507974686f6e2f383932326363633964343739623239303534666463633138313562663366333539383166626562382f70795f7475746f7269616c2e6970796e62&nwo=auliakhalqillah%2FIntroduction-to-Python&path=py_tutorial.ipynb&repository_id=372004306&repository_type=Repository#4.-Basic-Algorithm-in-Python)
 
 I hope this repository may help all of you to learn about Python programming language. Enjoy it :coffee:
 
