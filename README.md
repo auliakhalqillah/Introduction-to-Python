@@ -25,7 +25,7 @@ In this repository, I would like to explain:
    - [Numpy](https://numpy.org/)
    - [Pandas](https://pandas.pydata.org/)
    - [Matplotlib](https://matplotlib.org/)
-   - [Scipy](https://www.scipy.org/)
+   - Basic Algorithm in Python
 
 I hope this repository may help all of you to learn about Python programming language. Enjoy it :coffee:
 
