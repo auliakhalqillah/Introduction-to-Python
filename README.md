@@ -38,7 +38,7 @@ I hope this repository may help all of you to learn about Python programming lan
 
 ### 2. Working with Notebook in Google Colab
 
-1. Create a new notebook from Google Colab OR you use the `py_tutorial.ipynb` file from the repository link that has been provied previously.
+1. Create a new notebook from Google Colab OR you can use the `py_tutorial.ipynb` file from the repository link that has been provied previously.
 2. In notebook, we can write a Python code and also Markdown in the same note/file. You just click on `+Code` to write a code and click on `+Text` to write Markdown.
 3. In Google Colab has been installed standard Python library as default, such as Numpy, Pandas, Matplotlib and Scipy. If you have to install particular Python library, you can do this by typing `!pip install [library-name]` in Google Colab's notebook. To check a Python library in Google Colab, type `!pip list -v | grep [library-name]`.
 4. As mentioned in point 2, we can write a text as Markdown file/format. This is the easy way to us to write a note in the same file of our code. For more information about Markdown format, please visit [markdownguide.org](https://www.markdownguide.org/basic-syntax/).
