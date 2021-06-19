@@ -34,7 +34,7 @@ I hope this repository may help all of you to learn about Python programming lan
 1. Go to [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) and sign in to your account.
 2. Click on Github tab.
 3. Copy this repository link (https://github.com/auliakhalqillah/Introduction-to-Python) and paste to Google Colab. Then click on search icon. It will show all files from the link of GitHub repository.
-4. Click on `py_tutorial.ipynb` file to work with this file OR you can just create a New Notebook by click on its button.
+4. Click on `py_tutorial.ipynb` file to work with this file OR you can just create a `New Notebook` by click on its button.
 
 ### 2. Working with Notebook in Google Colab
 
