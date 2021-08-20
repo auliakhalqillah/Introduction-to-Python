@@ -5,7 +5,7 @@
 
 
 # Introduction
-I create this repository to share about fundamental of Python programming language based on my experience. Python has been introduced by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) in 1991. Currently, Python is a one of common programming languages that widely used in this century because the language is close to human language and easy to be learned. This programming language can be applied in some fields, such as:
+I create this repository to share about fundamental of Python programming language based on my experience. Python has been introduced by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) in 1991. Currently, Python is a one of famous programming languages that widely used in this century because the language is close to human language and easy to be learned. This programming language can be applied in some fields, such as:
 
 - Web and Internet Davelopment
 - Scientific Numeric
@@ -17,7 +17,7 @@ I create this repository to share about fundamental of Python programming langua
 
 Python can be installed in Linux, Windows and Mac OS, for more information about the installation, you can visit the [Python's website](https://www.python.org/downloads/).
 
-In this repository, I would like to explain:
+In this repository, I would like to share:
 
 1. How to setup Python online by using [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) and Github Repository
 2. Working with Notebook in Google Colab
@@ -31,17 +31,17 @@ I hope this repository may help all of you to learn about Python programming lan
 
 ### 1. How to setup Python online by using Google Colab and Github Repository
 
-1. Go to [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) and sign in to your account.
+1. Go to [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) and sign in to your account. Make sure that you already have Google account.
 2. Click on Github tab.
 3. Copy this repository link (https://github.com/auliakhalqillah/Introduction-to-Python) and paste to Google Colab. Then click on search icon. It will show all files from the link of GitHub repository.
-4. Click on `py_tutorial.ipynb` file to work with this file OR you can just create a `New Notebook` by click on its button.
+4. Click on `py_tutorial.ipynb` file to work with this file OR you can just create a `New Notebook` by click on its button of click File > New Notebook
 
 ### 2. Working with Notebook in Google Colab
 
-1. Create a new notebook from Google Colab OR you can use the `py_tutorial.ipynb` file from the repository link that has been provied previously.
-2. In notebook, we can write a Python code and also Markdown in the same note/file. You just click on `+Code` to write a code and click on `+Text` to write Markdown.
+1. Create a new notebook (File > New Notebook) from Google Colab's toolbar OR you can use the `py_tutorial.ipynb` file from the repository link that has been provied previously.
+2. In notebook, we can write a Python code and also Markdown format (for note) in the same note/file. You just click on `+Code` to write a code and click on `+Text` to write Markdown format.
 3. In Google Colab has been installed standard Python library as default, such as Numpy, Pandas, Matplotlib and Scipy. If you have to install particular Python library, you can do this by typing `!pip install [library-name]` in Google Colab's notebook. To check a Python library in Google Colab, type `!pip list -v | grep [library-name]`.
-4. As mentioned in point 2, we can write a text as Markdown file/format. This is the easy way to us to write a note in the same file of our code. For more information about Markdown format, please visit [markdownguide.org](https://www.markdownguide.org/basic-syntax/).
+4. As mentioned in point 2, we can write a text as Markdown file/format. This is the easy way for us to write a note in the same file of our code. For more information about Markdown format, please visit [markdownguide.org](https://www.markdownguide.org/basic-syntax/).
 
 ### 3. Working with fundamental Python libraries
 
