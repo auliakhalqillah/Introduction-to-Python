@@ -1,4 +1,4 @@
-# Introduction to Python
+# Introduction to Python 3
 |  |  |  |
 |:----:|:----:|:----:|
 | [<img align="center" width="150" height="25" src="https://colab.research.google.com/assets/colab-badge.svg">](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index) | [<img align="center" width="150" height="25" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">](https://jupyter.org/try) | [<img align="center" width="150" height="25" src="http://ForTheBadge.com/images/badges/made-with-python.svg">](https://www.python.org/) |
