@@ -5,7 +5,10 @@
 
 
 # Introduction
-I create this repository to share about fundamental of Python programming language based on my experience. Python has been introduced by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) in 1991. Currently, Python is a one of famous programming languages that widely used in this century because the language is close to human language and easy to be learned. This programming language can be applied in some fields, such as:
+
+_**I create this repository to share about fundamental of Python programming language based on my experience**_. 
+
+Python has been introduced by [Guido van Rossum](https://en.wikipedia.org/wiki/Guido_van_Rossum) in 1991. Currently, Python is a one of famous programming languages that widely used in this century because the language is close to human language and easy to be learned. This programming language can be applied in some fields, such as:
 
 - Web and Internet Davelopment
 - Scientific Numeric
